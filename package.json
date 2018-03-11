@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-mixed-case",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plugin to support mixed case",
   "repository": "github:jasef/eslint-plugin-mixed-case",
   "bugs" : {
